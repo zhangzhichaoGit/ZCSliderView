@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
 
 s.name         = "ZCSliderView"
-s.version      = "0.0.2"
+s.version      = "1.0"
 s.summary      = "ZCSliderView."
 s.homepage     = "https://github.com/zhangzhichaoGit/ZCSliderView"
 s.license      = { :type => "MIT", :file => "LICENSE" }
